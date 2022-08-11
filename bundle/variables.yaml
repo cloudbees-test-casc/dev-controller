@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-test-casc
+- admin-user: AndreiAlexComan-admin
+- manager-user: AndreiAlexComan
